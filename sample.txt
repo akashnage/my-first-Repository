@@ -1,8 +1,14 @@
 newline
 newline2
 <<<<<<< HEAD
+<<<<<<< HEAD
 NAge akash 
 =======
 hi AAkash 
 akash nage
+>>>>>>> refs/remotes/origin/main
+=======
+newline3
+newline4
+newline5
 >>>>>>> refs/remotes/origin/main
